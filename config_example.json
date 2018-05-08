@@ -34,11 +34,11 @@
         "enabled": true,
         "host": "0.0.0.0",
         "port": 8080,
-        "stratumHost": "cryppit.com",
+        "stratumHost": "",
         "stats": {
             "updateInterval": 30,
             "historicalRetention": 14400,
-            "hashrateWindow": 300
+            "hashrateWindow": 500
         },
         "adminCenter": {
             "enabled": false,
